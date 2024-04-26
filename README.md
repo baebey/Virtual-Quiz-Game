@@ -1,2 +1,1 @@
-Virtual Quiz Game 
-Computer Vision mini project 
+Virtual Quiz Game : Computer Vision mini project 
